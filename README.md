@@ -15,13 +15,11 @@
 
 📓 I’m currently learning Genrative AI... 😭
 
-📧 danishsartaj.hussain9000@gmail.com
+📧 Email: danishsartaj.hussain9000@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://github.com/danish-sartaj9000
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
 
-📷 Instagram : https://www.instagram.com/hammad2980/
  
 <h2>Tech Stack</h2>
 
